@@ -1,0 +1,19 @@
+<div class="flex justify-center mt-10" >
+<mat-card class="shadow w-4/16" >
+    <img mat-card-image class="!h-72 " 
+    
+    [src]="product.image">
+    
+    <div class="p-4 ">
+        <h1>{{product.name}}</h1>
+        <h2>{{product.brand}}</h2>
+        <p>รองเท้าผ้าใบสีดำ Nike ของเเท้(100%)ใส่สะบายได้ทั้งชายเเละหญิง</p>
+        <div class="flex gap-2">
+            <span>ราคา {{product.currentPrice}}</span>
+            <span><s>ราคา {{product.standardPice}}</s></span>
+            <span>ลด({{product.discount}}%)</span>
+        </div>
+        
+    </div>
+</mat-card>
+</div>

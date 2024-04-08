@@ -1,0 +1,19 @@
+<mat-card class="shadow">
+    <img mat-card-image class="!h-72 " 
+    
+    [src]="product.image">
+    
+    <div class="p-4 ">
+        <h1>{{product.name}}</h1>
+        <h2>{{product.brand}}</h2>
+
+        <div class="flex gap-2">
+            <span>ราคา {{product.currentPrice}}</span>
+            <span><s>ราคา {{product.standardPice}}</s></span>
+            <span>ลด({{product.discount}}%)</span>
+        </div>
+        <div class="flex justify-center">
+            <button mat-raised-button style="background-color: #ffb6c1;" (click)="view()">ดูสิ้นค้า</button>
+        </div>
+    </div>
+</mat-card>

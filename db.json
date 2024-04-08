@@ -1,0 +1,92 @@
+{
+    "product":[
+    {
+        "id": "1",
+        "brand" : "Nike",
+        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/d/u/p/-original-imagqfwabwzgauqh.jpeg?q=70",
+        "currentPrice" : "1000",
+        "standardPice" : "2000",
+        "discount" : "50",
+        "name" : "รองเท้าผ้าใบ"
+      },
+    {
+      "id": "2",
+        "brand" : "Nike",
+        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/m/x/i/-original-imag4zrnefpu6peg.jpeg?q=70",
+        "currentPrice" : "600",
+        "standardPice" : "1000",
+        "discount" : "40",
+        "name" : "เสื้อเชิตชาย"
+    },
+    {
+      "id": "3",
+      "brand" : "Nike",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/short/r/e/v/s-aj3915-065-nike-original-imagz7vs27xzvnez.jpeg?q=70",
+      "currentPrice" : "800",
+      "standardPice" : "1000",
+      "discount" : "20",
+      "name" : "กางเกงขาสั้นชาย"
+    },
+    {
+      "id": "4",
+      "brand" : "Nike",
+      "image": "https://rukminim2.flixcart.com/image/612/612/jbgtnrk0/deodorant/h/v/m/200-extreme-long-lasting-eau-de-toilette-deodorant-for-women-original-imafytdxfxk8fdq6.jpeg?q=70",
+      "currentPrice" : "400",
+      "standardPice" : "500",
+      "discount" : "10",
+      "name" : "สเปรย์ระงับกลิ่นกายสำหรับผู้หญิง"
+    },
+    {
+      "id": "5",
+      "brand" : "Nike",
+      "image": "https://rukminim2.flixcart.com/image/612/612/jvy4vbk0/sport-glove/z/z/e/all-ac4227-017-xl-ac4227-017-300-ac4227-017-gym-fitness-gloves-original-imafgpknfrfchwp9.jpeg?q=70",
+      "currentPrice" : "250",
+      "standardPice" : "500",
+      "discount" : "50",
+      "name" : "ถุงมือท่านชาย"
+    },{
+      "id": "1",
+      "brand" : "Nike",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/hat/b/f/o/apex-futura-xs-1-fb5381-010-fb5381-010-nike-original-imagzjsgxhzggau7.jpeg?q=70",
+      "currentPrice" : "600",
+      "standardPice" : "700",
+      "discount" : "10",
+      "name" : "หมวก"
+    },
+  {
+    "id": "2",
+      "brand" : "Nike",
+      "image": "https://rukminim2.flixcart.com/image/612/612/k3j1z0w0/fitness-band/u/v/t/swoosh-wristbands-royal-blue-white-ac2286-402-blue-nike-original-imafmmw2vwygmzvg.jpeg?q=70",
+      "currentPrice" : "400",
+      "standardPice" : "800",
+      "discount" : "50",
+      "name" : "สายรัดข้อมือ"
+  },
+  {
+    "id": "3",
+    "brand" : "Nike",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/backpack/b/8/h/7-brasilia-6-ba5967-010-backpack-nike-11-13-original-imagz8vtbrunsrfg.jpeg?q=70",
+    "currentPrice" : "800",
+    "standardPice" : "1200",
+    "discount" : "40",
+    "name" : "กระเป๋าสะพายข้าง"
+  },
+  {
+    "id": "4",
+    "brand" : "Nike",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sock/q/5/j/s-1-da3588-100-nike-original-imagwnk3uvbzyayq.jpeg?q=70",
+    "currentPrice" : "300",
+    "standardPice" : "400",
+    "discount" : "10",
+    "name" : "ถุงเท้าขาว"
+  },
+  {
+    "id": "5",
+    "brand" : "Nike",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/slipper-flip-flop/5/4/t/-original-imagxe2gvjaqkgyp.jpeg?q=70",
+    "currentPrice" : "300",
+    "standardPice" : "600",
+    "discount" : "50",
+    "name" : "รองเท้าเเตะ"
+  }]
+}
